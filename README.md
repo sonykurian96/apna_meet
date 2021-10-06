@@ -1,4 +1,4 @@
-# Video-Call-App
+# Duplicate of Video_conference app
 
 A Video Call app similar to Google meet yet little different.
 
